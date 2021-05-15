@@ -1,7 +1,3 @@
----
-layout: page
-title: "Benefici attesi"
----
 # ANALISI SUL TRAFFICO
 
 Le Amministrazioni locali elaborano periodicamente piani del traffico e della mobilità ed inoltre continuativamente, nella gestione ordinaria, sviluppano interventi su aree delimitate o assi stradali, incroci, rotonde, nodi di interscambio, ecc.
