@@ -12,4 +12,4 @@ Tali misurazioni vengono eseguite periodicamente con indagini, o, se presenti, c
 
 I dati FCD hanno inoltre la particolarità di fornire anche informazioni sui percorsi utili all’aggiornamento delle matrici O/D. Queste innovazioni potranno determinare un miglioramento organizzativo funzionale nell’Amministrazione con benefici in termini di efficienza ed efficacia.
 
-![Immagine del grafo stradale](images/movida.jpg "grafo stradale")
+![Immagine del grafo stradale](images/movida.jpg "grafo stradale"){:width="600px"}
